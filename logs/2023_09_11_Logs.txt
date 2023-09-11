@@ -1,0 +1,6 @@
+
+DATE: 2023-09-11 23:26:48 ; USER: grzegorz.miklaszewsk ; ERROR: Invalid PESEL number: 8912221525d
+DATE: 2023-09-11 23:26:58 ; USER: grzegorz.miklaszewsk ; ERROR: Invalid PESEL number: 8912221525d
+DATE: 2023-09-11 23:26:58 ; USER: grzegorz.miklaszewsk ; SUMMARY: Imported: 0, Errors: 1
+DATE: 2023-09-11 23:28:03 ; USER: grzegorz.miklaszewsk ; ERROR: Invalid PESEL number: 8912221525d
+DATE: 2023-09-11 23:28:03 ; USER: grzegorz.miklaszewsk ; SUMMARY: Imported: 0, Errors: 1
